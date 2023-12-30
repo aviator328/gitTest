@@ -1,2 +1,2 @@
 # gitTest
-Ez egy teszt depo
+Ez egy teszt repo
